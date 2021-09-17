@@ -1,6 +1,7 @@
-# userRegistrationSQL
 This is a NodeJS project. I created this project in my workshop to demonstrate CRUD operation using NodeJS and Sequelize(With MySQL)
+
 Video Link: https://www.youtube.com/channel/UC0WKTSptW8OoMePQjGAubBQ?sub_confirmation=1
+
 Playlist: NodeJS Workshops[Hindi]
 
 Please create db "workshop"
